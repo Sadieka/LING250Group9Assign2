@@ -1,1 +1,3 @@
-# LING250Group9Assign2
+### LING250Group9Assign2
+
+sentiment analysis using vader

@@ -1,0 +1,4 @@
+client id : SzJjwTI_hOA2EaKUlVCg6A
+client secret : qzGZl8Rn3wQ48OORSpIsFAN60OMwfA
+user name : Group9Testbot
+password : linguistics

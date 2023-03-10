@@ -1,8 +1,12 @@
 ,Comment,Sentiment,Summary,% Positive Comments,% Negative Comments,% Neutral Comments,Average Sentiment
-0,How is this any different than how most lobbying is being done?  Is it just getting caught?,"{'neg': 0.109, 'neu': 0.891, 'pos': 0.0, 'compound': -0.2389}",Negative,0.0,40.0,60.0,-0.11141999999999999
-1,Illinois...hold my beer.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-2,"The government is where integrity goes to die.
+0,How is this any different than how most lobbying is being done?  Is it just getting caught?,"{'neg': 0.109, 'neu': 0.891, 'pos': 0.0, 'compound': -0.2389}",Negative,0.0,60.0,40.0,-0.18366
+1,"The government is where integrity goes to die.
 
 There ya go.","{'neg': 0.252, 'neu': 0.581, 'pos': 0.168, 'compound': -0.3182}",Negative,,,,
-3,** coughs in NY **,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-4,You do have a point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
+2,** coughs in NY **,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
+3,You do have a point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
+4,"That is not what corruption is, either. 
+
+The original topic is literally a conviction of a government offical. To convict, you need witnesses and testimony. In agreeance with their deal (its right there in the article dude), they avoid being prosecuted so we can weed out corrupt politicians who enabled the whole thing.
+
+This is how anti-corruption works.","{'neg': 0.077, 'neu': 0.886, 'pos': 0.037, 'compound': -0.3612}",Negative,,,,

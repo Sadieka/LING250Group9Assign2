@@ -1,13 +1,24 @@
 ,Comment,Sentiment,Summary,% Positive Comments,% Negative Comments,% Neutral Comments,Average Sentiment,Titles,IDs
-0,I can’t imagine how much scarier the world would be for women if the could be sued for blocking creeps on the internet,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}",Negative,10.0,40.0,50.0,-0.10615999999999999,Comedian sues Ocasio-Cortez for blocking him on Twitter after he catcalled her outside U.S. Capitol,11n21ue
+0,I can’t imagine how much scarier the world would be for women if the could be sued for blocking creeps on the internet,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}",Negative,13.333333333333334,40.0,46.666666666666664,-0.033146666666666665,Comedian sues Ocasio-Cortez for blocking him on Twitter after he catcalled her outside U.S. Capitol,11n21ue
 1,“Comedian”.  There’s a stretch.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,Former Ohio House speaker convicted in $60 million bribery scheme,11n4q2l
-2,did i wander into /r/justneckbeardthings?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+2,did i wander into /r/justneckbeardthings?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,Senate GOP leader Mitch McConnell hospitalized after fall,11muthn
 3,This “comedian” is also friends with MTG. [She platformed him on her livestream](https://www.businessinsider.com/marjorie-taylor-greene-hosts-alex-stein-aoc-lewd-comments-2022-7),"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.4767}",Positive,,,,,,
-4,It's ok to block people who sexually harass you.,"{'neg': 0.427, 'neu': 0.42, 'pos': 0.154, 'compound': -0.5994}",Negative,,,,,,
+4,“*Pervert sues Ocasio….”    Fixed it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
 5,How is this any different than how most lobbying is being done?  Is it just getting caught?,"{'neg': 0.109, 'neu': 0.891, 'pos': 0.0, 'compound': -0.2389}",Negative,,,,,,
-6,Illinois...hold my beer.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-7,"The government is where integrity goes to die.
+6,"The government is where integrity goes to die.
 
 There ya go.","{'neg': 0.252, 'neu': 0.581, 'pos': 0.168, 'compound': -0.3182}",Negative,,,,,,
-8,** coughs in NY **,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-9,You do have a point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+7,** coughs in NY **,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+8,You do have a point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+9,"That is not what corruption is, either. 
+
+The original topic is literally a conviction of a government offical. To convict, you need witnesses and testimony. In agreeance with their deal (its right there in the article dude), they avoid being prosecuted so we can weed out corrupt politicians who enabled the whole thing.
+
+This is how anti-corruption works.","{'neg': 0.077, 'neu': 0.886, 'pos': 0.037, 'compound': -0.3612}",Negative,,,,,,
+10,"As a native southerner I just have to say, Bless his heart.","{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.7906}",Positive,,,,,,
+11,[removed],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+12,[removed],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+13,">The dinner was at the Waldorf Astoria Washington DC, formerly the Trump International Hotel, Washington D.C.
+
+Probably Payback from the Big Orange for not supporting him 110%.","{'neg': 0.085, 'neu': 0.915, 'pos': 0.0, 'compound': -0.3412}",Negative,,,,,,
+14,"I don't normally pray, but maybe now is the time.","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.1232}",Negative,,,,,,

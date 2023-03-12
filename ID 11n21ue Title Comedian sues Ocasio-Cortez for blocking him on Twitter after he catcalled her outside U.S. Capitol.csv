@@ -1,6 +1,0 @@
-,Comment,Sentiment,Summary,% Positive Comments,% Negative Comments,% Neutral Comments,Average Sentiment
-0,I can’t imagine how much scarier the world would be for women if the could be sued for blocking creeps on the internet,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}",Negative,20.0,20.0,60.0,0.018980000000000007
-1,“Comedian”.  There’s a stretch.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-2,did i wander into /r/justneckbeardthings?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-3,This “comedian” is also friends with MTG. [She platformed him on her livestream](https://www.businessinsider.com/marjorie-taylor-greene-hosts-alex-stein-aoc-lewd-comments-2022-7),"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.4767}",Positive,,,,
-4,“*Pervert sues Ocasio….”    Fixed it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,

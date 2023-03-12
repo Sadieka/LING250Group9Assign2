@@ -1,8 +1,0 @@
-,Comment,Sentiment,Summary,% Positive Comments,% Negative Comments,% Neutral Comments,Average Sentiment
-0,"As a native southerner I just have to say, Bless his heart.","{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.7906}",Positive,20.0,40.0,40.0,0.06523999999999999
-1,[removed],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-2,[removed],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-3,">The dinner was at the Waldorf Astoria Washington DC, formerly the Trump International Hotel, Washington D.C.
-
-Probably Payback from the Big Orange for not supporting him 110%.","{'neg': 0.085, 'neu': 0.915, 'pos': 0.0, 'compound': -0.3412}",Negative,,,,
-4,"I don't normally pray, but maybe now is the time.","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.1232}",Negative,,,,

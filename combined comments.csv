@@ -1,24 +1,94 @@
 ,Comment,Sentiment,Summary,% Positive Comments,% Negative Comments,% Neutral Comments,Average Sentiment,Titles,IDs
-0,I can’t imagine how much scarier the world would be for women if the could be sued for blocking creeps on the internet,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}",Negative,13.333333333333334,40.0,46.666666666666664,-0.033146666666666665,Comedian sues Ocasio-Cortez for blocking him on Twitter after he catcalled her outside U.S. Capitol,11n21ue
-1,“Comedian”.  There’s a stretch.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,Former Ohio House speaker convicted in $60 million bribery scheme,11n4q2l
-2,did i wander into /r/justneckbeardthings?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,Senate GOP leader Mitch McConnell hospitalized after fall,11muthn
-3,This “comedian” is also friends with MTG. [She platformed him on her livestream](https://www.businessinsider.com/marjorie-taylor-greene-hosts-alex-stein-aoc-lewd-comments-2022-7),"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.4767}",Positive,,,,,,
-4,“*Pervert sues Ocasio….”    Fixed it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-5,How is this any different than how most lobbying is being done?  Is it just getting caught?,"{'neg': 0.109, 'neu': 0.891, 'pos': 0.0, 'compound': -0.2389}",Negative,,,,,,
-6,"The government is where integrity goes to die.
+0,"Good. Rescue the depositors, shareholders are on their own. (but I do hope they sue the bejesus out of the bank's [former] executives)","{'neg': 0.0, 'neu': 0.716, 'pos': 0.284, 'compound': 0.7876}",Positive,36.0,44.0,20.0,-0.09050400000000001,Yellen says no federal bailout for Silicon Valley Bank,11pffw9
+1,"Sounds like Silicon Valley needs to reach down and find their bootstraps, they’re experienced, they should already know how to pick themselves back up, right?","{'neg': 0.0, 'neu': 0.865, 'pos': 0.135, 'compound': 0.3818}",Positive,,,,,"Harriet Tubman monument unveiled, replacing Columbus statue in Newark, New Jersey",11p7jfg
+2,"It's so odd seeing so many wanting a bailout. And yes covering the depositors is a bailout. It was the same argument in 08 that was bad then and bad now. Banks need to bleed a little here and learn they cant keep ignoring their greedy high risk moves knowing they will get bailed out. Depositors also need to learn the lesson that putting all your money into one bank is dumb. This will just keep happening and in bigger allotments if it isn't left alone to die.
 
-There ya go.","{'neg': 0.252, 'neu': 0.581, 'pos': 0.168, 'compound': -0.3182}",Negative,,,,,,
-7,** coughs in NY **,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-8,You do have a point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-9,"That is not what corruption is, either. 
+No bailouts.","{'neg': 0.258, 'neu': 0.682, 'pos': 0.06, 'compound': -0.9638}",Negative,,,,,Charges dropped against man arrested for road rage shooting on I-95,11pcfkt
+3,"Good, Also, let's claw back the SVB bonuses that were given to the big shots at the bank, the day before they disclosed their mess to the outside world.   Let them clean up the mess they made.","{'neg': 0.108, 'neu': 0.693, 'pos': 0.199, 'compound': 0.6369}",Positive,,,,,Saudi oil giant Aramco posts record $161.1 billion profit for 2022,11p9v1l
+4,Pull yourselves up by your designer bootstraps,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,Silicon Valley Bank employees received bonuses hours before government takeover,11ox69q
+5,"And the Gov shouldn't. This is Capitalism at work, there's no chance in hell that depositors and VC's weren't aware of what an unisured creditor was, and the risk it carries. Secured creditors will recieve their $250k this coming week, unsecured creditors are getting certificates and will recieve proceeds from the sale of SVB's assets as they are liquidated, exactly as expected for *unsecured creditors of a failed bank. W*elcome to Capitalism and Investing. VC's and start-up execs should have done due diligence and taken appropriate steps just like anyone else is expected to when investing.
 
-The original topic is literally a conviction of a government offical. To convict, you need witnesses and testimony. In agreeance with their deal (its right there in the article dude), they avoid being prosecuted so we can weed out corrupt politicians who enabled the whole thing.
+A start-up CFO with 50M seed money for payroll could easily have put those funds into a stepped ladder of treasury bills to. mature when payroll or expected expenses were due rather than sitting 50M of liquid funds in a bank account secured only up to $250k. Poor risk and financial management from VC's and the start-up execs - will they learn from this, probably not. 
 
-This is how anti-corruption works.","{'neg': 0.077, 'neu': 0.886, 'pos': 0.037, 'compound': -0.3612}",Negative,,,,,,
-10,"As a native southerner I just have to say, Bless his heart.","{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.7906}",Positive,,,,,,
-11,[removed],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-12,[removed],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
-13,">The dinner was at the Waldorf Astoria Washington DC, formerly the Trump International Hotel, Washington D.C.
+VC's and Equity investors can also look at their investments, evaluate the winners and losers and pick and choose which to continue floating through this period. Thats  how Capitalism works. Anyone pushing for a bailout is necessary to protect individual workers is completely disengenuous to the situation- fundementally the risk has been predictable to anyone who chose to review SVB's financial statements and there is no reason at all for tax payers to bail out VC's for execrising poor oversight of their investments. Must've missed the disclaimer that investing is inherently risky and carries the chance of a loss of investment while spending all day reviewing start-ups and investments to park their venture capital into...that must be embarassing. 
 
-Probably Payback from the Big Orange for not supporting him 110%.","{'neg': 0.085, 'neu': 0.915, 'pos': 0.0, 'compound': -0.3412}",Negative,,,,,,
-14,"I don't normally pray, but maybe now is the time.","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.1232}",Negative,,,,,,
+And no, Bill Akerman is entirely off the mark that this will cause a run on regional banks Monday AM, the fucking loony.","{'neg': 0.122, 'neu': 0.807, 'pos': 0.071, 'compound': -0.9376}",Negative,,,,,,
+6,"A bailout will just make inflation worse, fuck SVB","{'neg': 0.571, 'neu': 0.429, 'pos': 0.0, 'compound': -0.7906}",Negative,,,,,,
+7,16th largest bank. Do you need to be in the top 10 to get bailouts? And could you let us know which will get bailouts in advance so we can be sure to leave our over 250k funds there?,"{'neg': 0.029, 'neu': 0.864, 'pos': 0.107, 'compound': 0.504}",Positive,,,,,,
+8,"It's kinda funny to see all the tech bros who go to SV to find a company that is going to ""disrupt the market"", which ever one it might be now begging for bailouts when for the innocent workers who have been disrupted for the last 40 years got nothing. 
+
+It's capitalism, you took a risk to hit it big and it didn't work out. It's time to take your lumps and move on to the next project. Good Luck!@","{'neg': 0.024, 'neu': 0.849, 'pos': 0.127, 'compound': 0.8442}",Positive,,,,,,
+9,[deleted],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+10,I’m all for a Harriet monument. Good for her. It does feel like a monument replacing Columbus should be a native american figure though. Still Harriet is obviously much more worthy of memorialization than that genocidal maniac. Good move for them.,"{'neg': 0.061, 'neu': 0.712, 'pos': 0.227, 'compound': 0.8122}",Positive,,,,,,
+11,[deleted],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+12,Columbus is a hero in this house end of story,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.5574}",Positive,,,,,,
+13,About time this woman gets a true monument. Should be bigger,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.4215}",Positive,,,,,,
+14,"Harriet Tubman really is probably the single most inspiring person in American history. To not only escape slavery, but then to come back and help more people get out, is bravery, selflessness, and heroism almost unprecedented in world history.
+
+And did it all while suffering from a traumatic brain injury as a child that caused her to experience seizures for all her life, that could paralyze her for hours at a time.","{'neg': 0.15, 'neu': 0.666, 'pos': 0.185, 'compound': 0.5177}",Positive,,,,,,
+15,Bout fuckin time she got a monument. She was badass.,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.34}",Positive,,,,,,
+16,Nice. Columbus was a piece of shit.,"{'neg': 0.316, 'neu': 0.439, 'pos': 0.246, 'compound': -0.2023}",Negative,,,,,,
+17,Columbus was BS. She was anything but.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+18,Can we get her on our $20 now?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+19,Columbus…. And Murica still has a holiday observing this mass murderer and accomplice rapist. Seller of children for sexual slavery. Great day to observe…,"{'neg': 0.357, 'neu': 0.474, 'pos': 0.17, 'compound': -0.8591}",Negative,,,,,,
+20,"Stand Your Ground has to be one of the most ridiculous laws in a heap of ridiculous laws. At best, it should be like Texas' old ""Needed Killing"" defense that almost never worked because it was stupid.","{'neg': 0.255, 'neu': 0.585, 'pos': 0.16, 'compound': -0.7089}",Negative,,,,,,
+21,"I don’t think the charges would’ve been dropped, had he been black","{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}",Negative,,,,,,
+22,What a joke Florida is,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",Positive,,,,,,
+23,Another reason to avoid Florida.,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",Negative,,,,,,
+24,"Welcome to the “Wild, Wild West”. But please, have your shoot out duels at noon like in the old days. Everyone is a gunslinger nowadays.","{'neg': 0.096, 'neu': 0.65, 'pos': 0.254, 'compound': 0.6249}",Positive,,,,,,
+25,lol he hid his gun until the car was beside him,"{'neg': 0.26, 'neu': 0.548, 'pos': 0.192, 'compound': 0.0}",Neutral,,,,,,
+26,Can they at least take his gun away?!,"{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4003}",Negative,,,,,,
+27,Another crazy story emanating from Thirdworldistan.,"{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}",Negative,,,,,,
+28,"Yet another in a long, long, long list of reasons not to go to Florida ever.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+29,"Do not visit Florida unless you want to be murdered with impunity. 
+
+I hate republicans","{'neg': 0.379, 'neu': 0.561, 'pos': 0.061, 'compound': -0.8316}",Negative,,,,,,
+30,"this money should be seized, Saudi family or no other family has right to be so rich that it distorts reality. They fund radical ideologies and suppress dissent. Oil should be made cheap so that the many poor countries can benefit which have to import oil using their dollar reserves.","{'neg': 0.128, 'neu': 0.746, 'pos': 0.126, 'compound': 0.2302}",Positive,,,,,,
+31,Buy electric and invest in hydrogen. Fuck these asshats.,"{'neg': 0.304, 'neu': 0.696, 'pos': 0.0, 'compound': -0.5423}",Negative,,,,,,
+32,"I mean, do they have a Diversity and Inclusion initiative?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+33,I think you’d be opening a whole can of worms if you go around seizing companies like that.,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.3612}",Positive,,,,,,
+34,This is a terrible idea.,"{'neg': 0.437, 'neu': 0.563, 'pos': 0.0, 'compound': -0.4767}",Negative,,,,,,
+35,"Lmfao. Ok. Go and try to seize it. See what happens. 
+
+they do have the right to be rich. You don’t have right to just take it from them freely. And you never will…what a skull fucked idea. 
+
+Thank god you don’t make any important decisions in this world.","{'neg': 0.07, 'neu': 0.669, 'pos': 0.261, 'compound': 0.875}",Positive,,,,,,
+36,"And once that oil arrives in said poor countries, the domestic mafia manages it and will triple the price anyways, be it sold cheap or not.
+
+Good luck seizing the mafia's money too.
+
+PS: Don't pull that thread, otherwise you will be seizing the money of a few thousands corporations and you will have 2-3 enemies","{'neg': 0.177, 'neu': 0.823, 'pos': 0.0, 'compound': -0.8803}",Negative,,,,,,
+37,"Go enlist and tell them you want to shoot some saudis then, war hawk.","{'neg': 0.339, 'neu': 0.591, 'pos': 0.07, 'compound': -0.7184}",Negative,,,,,,
+38,"Taste better than poverty dick with socialist ball gargling. Go learn to make your own fucking wealth.
+
+Only broke fucks think it’s ok to just take away others wealth. 
+
+I definitely agree there needs to be some limits to the billions and billions owned by .001 percent but most of y’all don’t even want millionaires to exist. To that I say fuck off.","{'neg': 0.17, 'neu': 0.662, 'pos': 0.168, 'compound': -0.4914}",Negative,,,,,,
+39,Wait they went up in 2022? It’s almost like… that’s the year the profits are up for…,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4404}",Positive,,,,,,
+40,"Amazing number of confidently incorrect, indignant ignoramuses in this thread.","{'neg': 0.316, 'neu': 0.259, 'pos': 0.425, 'compound': 0.2732}",Positive,,,,,,
+41,"Having worked there, I'm fucking laughing at all the comments. This place has been a fucking dumpster fire for years. Can't wait until BNP Paribas gets shut down next. 
+
+Fuck these banks. Fuck the cartels, Al Quaida/ ISIS and Saudi Royal family that bank at these banks.... Wait, we're not supposed to hold accounts for PEPs.... Ok, start a fucking fake business in the caymens and pay yourself from that. 
+
+Anyone who defends them defends North Korean fuck face generals, Russia oligarchs (so many Russian & Ukrainian dating websites bank with SVB), child soldiers in Africa (it's just a tech start-up for wheat in Sudan) or a NGO in Angola......
+
+
+ALL of the middle to high up management knows about all that shit! They submit just enough (or they thought they submitted just enough)  SARS to keep them off their backs....
+
+
+Long story short. Fuck you Greg in Tempe off Rio Salado. Fuck all the managers from Charles'Schwab who work/ed there. 
+
+I'm upset because none of them will serve time in prison. They will all get jobs at any other bank in days. They are why this world sucks for honest people. Fuck them so much","{'neg': 0.191, 'neu': 0.779, 'pos': 0.03, 'compound': -0.9873}",Negative,,,,,,
+42,"I love the panic that comes from everything now. It’s like business don’t fail every day. Don’t get me wrong this is indeed a huge fucking deal but unless you have some sort of certificate or degree in this stuff you really don’t know what’s going to happen. Even the people who know everything about the financial district don’t really know exactly what’s gunna happen so can everyone just chill out for one Sunday and we’ll get back to the (slow, very slow) collapse of civilization Monday morning?","{'neg': 0.114, 'neu': 0.825, 'pos': 0.061, 'compound': -0.7325}",Negative,,,,,,
+43,[deleted],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+44,Cash out before you crash out! Lol. Seems like this should have been expected. The basic employees didn't do anything wrong. But senior leadership should absolutely be held accountable for cashing out on the way out of this shit.,"{'neg': 0.169, 'neu': 0.717, 'pos': 0.114, 'compound': -0.6798}",Negative,,,,,,
+45,"So there a bunch of dodgy shit going on.... what a fucking surprise from a bank. 
+
+
+We need to bring extreme regulation with thw harshest punishment known to man(every bank in the civilized world not just the USA). If we are being forced to use banks for everything these cocksuckers running them need to be held accountable for ruining thousands of lives.","{'neg': 0.273, 'neu': 0.696, 'pos': 0.031, 'compound': -0.9572}",Negative,,,,,,
+46,"""Parachute for you! Parachute for you! Parachute for you!...""","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,,,
+47,Ffs the Americans never learn from their mistakes do they.,"{'neg': 0.441, 'neu': 0.559, 'pos': 0.0, 'compound': -0.743}",Negative,,,,,,
+48,"just remember when you read comments
+
+would bankers hire PR firms to control the social media?? did they ignore this??","{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.5362}",Negative,,,,,,
+49,I work at this bank and got a $85k bonus! No complaints!! 🤣🤣.,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.9191}",Positive,,,,,,

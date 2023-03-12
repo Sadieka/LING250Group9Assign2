@@ -1,13 +1,15 @@
 ,Comment,Sentiment,Summary,% Positive Comments,% Negative Comments,% Neutral Comments,Average Sentiment
-0,"Stand Your Ground has to be one of the most ridiculous laws in a heap of ridiculous laws. At best, it should be like Texas' old ""Needed Killing"" defense that almost never worked because it was stupid.","{'neg': 0.255, 'neu': 0.585, 'pos': 0.16, 'compound': -0.7089}",Negative,20.0,60.0,20.0,-0.19291
-1,"I don’t think the charges would’ve been dropped, had he been black","{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}",Negative,,,,
-2,Another reason to avoid Florida.,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",Negative,,,,
-3,"Welcome to the “Wild, Wild West”. But please, have your shoot out duels at noon like in the old days. Everyone is a gunslinger nowadays.","{'neg': 0.096, 'neu': 0.65, 'pos': 0.254, 'compound': 0.6249}",Positive,,,,
-4,lol he hid his gun until the car was beside him,"{'neg': 0.26, 'neu': 0.548, 'pos': 0.192, 'compound': 0.0}",Neutral,,,,
-5,Can they at least take his gun away?!,"{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4003}",Negative,,,,
-6,Another crazy story emanating from Thirdworldistan.,"{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}",Negative,,,,
-7,"Yet another in a long, long, long list of reasons not to go to Florida ever.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,,,,
-8,What a joke Florida is,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",Positive,,,,
-9,"Do not visit Florida unless you want to be murdered with impunity. 
+0,"Stand Your Ground has to be one of the most ridiculous laws in a heap of ridiculous laws. At best, it should be like Texas' old ""Needed Killing"" defense that almost never worked because it was stupid.","{'neg': 0.255, 'neu': 0.585, 'pos': 0.16, 'compound': -0.7089}",Negative,10.0,90.0,0.0,-0.47107
+1,"Do not visit Florida unless you want to be murdered with impunity. 
 
 I hate republicans","{'neg': 0.379, 'neu': 0.561, 'pos': 0.061, 'compound': -0.8316}",Negative,,,,
+2,"I don’t think the charges would’ve been dropped, had he been black","{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}",Negative,,,,
+3,"Theoretically, if Stand Your Ground laws apply to situations involving cars, then every Florida highway should just be a running gun battle 24/7.
+
+If I shot at every motorist who threatened my life, I'd be killing a couple dudes a week. And a few dudettes. Florida is a failed state.","{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.9403}",Negative,,,,
+4,If he was George Floyd  or Trevor Martin the charges would have been totally different.,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.2732}",Negative,,,,
+5,What a joke Florida is,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",Positive,,,,
+6,"But that’s a fact the jury should decide! He’s raising an affirmative defense, so he should convince people he’s right. Ugh fuck Florida. Idk know about their gun laws but aren’t guns and ammo supposed to be separated in a car anyways? Ffs","{'neg': 0.314, 'neu': 0.607, 'pos': 0.078, 'compound': -0.9432}",Negative,,,,
+7,Another reason to avoid Florida.,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",Negative,,,,
+8,Another crazy story emanating from Thirdworldistan.,"{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}",Negative,,,,
+9,Can they at least take his gun away?!,"{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4003}",Negative,,,,
